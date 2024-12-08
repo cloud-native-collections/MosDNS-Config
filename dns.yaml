@@ -97,7 +97,7 @@ plugins:
     args:
       concurrent: 1
       upstreams:
-        - addr: 192.168.82.1:1153 
+        - addr: 127.0.0.1:1053 
   # ali doh dot h3
   - tag: ali
     type: forward
